@@ -20,8 +20,6 @@ htdocs/speakwise_ai_landing/
 
 瀏覽：
 
-http://localhost/speakwise_ai_landing/
-
 ## 可修改區塊
 
 - index.html：修改文案、功能介紹、系統架構
